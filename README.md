@@ -86,6 +86,9 @@ amazon-product-analysis/
 │   ├── 11_feature_importance.png
 │   └── 12_confusion_matrix.png
 │
+├── report
+│   └──analysis_report.pdf
+│
 └── README.md
 ```
 
